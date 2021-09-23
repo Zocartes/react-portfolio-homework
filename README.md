@@ -1,16 +1,57 @@
-[![HitCount](http://hits.dwyl.io/rbhatia46/React-Portfolio.svg)](http://hits.dwyl.io/rbhatia46/React-Portfolio)
-![Star this repository](https://img.shields.io/github/stars/rbhatia46/React-Portfolio?style=social)
+# REACT Portfolio
 
+![GitHub license](https://img.shields.io/badge/License-MIT-green)
 
-A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
+## User Story
 
-## Preview
-![Preview](https://image.ibb.co/e5uBf0/Capture.png)
+As a Full Stack Webdeveloper I want to showcase my skills building my Portfolio with react.
 
-## How to use
-1. Clone/Download the repo.
-2. Run  ``` npm install ```.
-3. Change the values in ```src/resumeData.js``` to suit your use-case.
-4. Run ```npm start``` to spin the up the local dev server port 3000.(http://localhost:3000).
-5. Make required changes in ```src/resumeData.js``` to suit your needs.
+## Description
 
+REact Portfolio allows me to show possible employers my work in a modern and concsise form.
+
+## Table of Contents
+
+- [Installation](#Installation)
+
+- [Usage](#Usage)
+
+- [License](#License)
+
+- [Contributing](#Contributing)
+
+- [Tests](#Tests)
+
+- [Questions](#Questions)
+
+## Installation
+
+To install the required dependencies, please run the following command:
+
+```
+npm i bootstrap
+```
+
+## Usage
+
+When a user opens the application, they are presented with the home page. There a user is able to look at my work, prfessional references and contact info.
+
+## License
+
+This project is licensed under the [MIT](https://spdx.org/licenses/MIT.html) license.
+
+## Contributing
+
+Abide by the Contributor covenant guidelines
+
+## Tests
+
+To run tests, please run the following command:
+
+```
+N/A
+```
+
+## Questions
+
+If you have any questions, contact me at molestinaisrael@gmail.com. You can find more of my work at [Andres-Molestina](https://github.com/zocartes)
