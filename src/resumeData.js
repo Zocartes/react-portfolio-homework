@@ -24,7 +24,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"Just graduated BCS @ UNCC.  I am looking to bring my expirience as both a Veteran and an Entrepreneur to bear in the field of Coding.  My unique insights into Management and leadership should prove useful in developing tools for said fields. ",
+    "aboutme":"Just graduated BCS @ UNCC.  Hello, I am looking to bring my expirience as both a Veteran and an Entrepreneur to bear in the field of Coding.  My unique insights into Management and leadership should prove useful in developing tools for said fields. ",
     "address":"162 Valleyview Rd. Mooresville NC 28117",
     "website":"https://github.com/Zocartes",
     "education":[
@@ -105,12 +105,12 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"lorem ipsum unum...",
+        "name":"Some Latin guy"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"lorem ipsun unum...",
+        "name":"a different guy"
       }
     ]
   }
