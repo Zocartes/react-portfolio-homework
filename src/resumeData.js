@@ -1,12 +1,12 @@
 let resumeData = {
     "imagebaseurl":"placeholder",
     "name": "Andres Molestina",
-    "role": "Full Stack Developer, Father, Veteran",
+    "role": "Full Stack Web Developer, Father, Veteran",
     "linkedinId":"@andres-molestina",
     "skypeid": "@zocrates",
     "email":"zocrates@gmail.com",
     "phone":"704-430-5677",
-    "roleDescription": "I have built a solid foundation at UNCC BCS and am ready to use my knowledge to both advance my carrer and grow my knowledge.",
+    "roleDescription": "I have built a solid foundation at UNCC BCS and am ready to use my experience to both advance my carrer and grow my knowledge.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -26,7 +26,7 @@ let resumeData = {
       ],
     "aboutme":"Just graduated BCS @ UNCC.  Hello, I am looking to bring my expirience as both a Veteran and an Entrepreneur to bear in the field of Coding.  My unique insights into Management and leadership should prove useful in developing tools for said fields. ",
     "address":"162 Valleyview Rd. Mooresville NC 28117",
-    "website":"href=https://github.com/Zocartes",
+    "website":"https://github.com/Zocartes",
     "education":[
       {
         "UniversityName":"Boot Camp Spot @ UNCC",
@@ -49,7 +49,7 @@ let resumeData = {
         "specialization":"Owner-Manager",
         "MonthOfLeaving":"Currently",
         "YearOfLeaving":"working",
-        "Achievements":"Designed, built, staffed, run and manage a 12 chair Salon"
+        "Achievements":"Designed, built, staffed, run and managed a 12 chair Salon"
       },
       {
         "CompanyName":"Nail Art Beauty Spa",
@@ -90,7 +90,9 @@ let resumeData = {
       {
         "name":"NODE Company Management",
         "description":"command line app to manage company staff and salaries",
-        "imgurl":"https://i.imgur.com/X2xfISZ.jpg"
+        "imgurl":"https://i.imgur.com/X2xfISZ.jpg",
+        "url":"https://zocartes.github.io/day-planner-homework/"
+
       },
       {
         "name":"project3",
