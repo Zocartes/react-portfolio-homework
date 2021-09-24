@@ -91,7 +91,7 @@ let resumeData = {
         "name":"NODE Company Management",
         "description":"command line app to manage company staff and salaries",
         "imgurl":"https://i.imgur.com/X2xfISZ.jpg",
-        "url":"https://zocartes.github.io/day-planner-homework/"
+        "url":"https://www.youtube.com/watch?v=j559cZR0y4c"
 
       },
       {
