@@ -82,7 +82,7 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"Sceduler",
+        "name":"Scheduler",
         "description":"Track your schedule trough the day",
         "imgurl":"https://github.com/Zocartes/day-planner-homework/blob/main/assets/pics/daily-planner.png?raw=true",
         "url":"https://zocartes.github.io/day-planner-homework/"
@@ -112,7 +112,7 @@ let resumeData = {
       },
       {
         "description":"lorem ipsun unum...",
-        "name":"a different guy"
+        "name":"a different Latin guy"
       }
     ]
   }
