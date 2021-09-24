@@ -26,7 +26,7 @@ let resumeData = {
       ],
     "aboutme":"Just graduated BCS @ UNCC.  Hello, I am looking to bring my expirience as both a Veteran and an Entrepreneur to bear in the field of Coding.  My unique insights into Management and leadership should prove useful in developing tools for said fields. ",
     "address":"162 Valleyview Rd. Mooresville NC 28117",
-    "website":"https://github.com/Zocartes",
+    "website":"href=https://github.com/Zocartes",
     "education":[
       {
         "UniversityName":"Boot Camp Spot @ UNCC",
@@ -85,7 +85,7 @@ let resumeData = {
         "name":"Sceduler",
         "description":"Track your schedule trough the day",
         "imgurl":"https://github.com/Zocartes/day-planner-homework/blob/main/assets/pics/daily-planner.png?raw=true",
-        "href":"https://zocartes.github.io/day-planner-homework/"
+        "url":"https://zocartes.github.io/day-planner-homework/"
       },
       {
         "name":"NODE Company Management",
